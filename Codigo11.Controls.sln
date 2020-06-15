@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterUI", "TesterUI\TesterUI.csproj", "{7BDF5CDE-647E-4EEC-989A-CC88A719BAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTextbox", "MoneyTextbox\MoneyTextbox.csproj", "{748831CD-D54E-4E85-A299-937A0452C6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDF5CDE-647E-4EEC-989A-CC88A719BAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDF5CDE-647E-4EEC-989A-CC88A719BAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDF5CDE-647E-4EEC-989A-CC88A719BAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDF5CDE-647E-4EEC-989A-CC88A719BAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748831CD-D54E-4E85-A299-937A0452C6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748831CD-D54E-4E85-A299-937A0452C6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748831CD-D54E-4E85-A299-937A0452C6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748831CD-D54E-4E85-A299-937A0452C6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6291D5D-A959-4FCC-8323-12382C12FF5A}
+	EndGlobalSection
+EndGlobal
