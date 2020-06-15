@@ -19,6 +19,13 @@ namespace TesterUI
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            /********************prev config********************
+             ****** moneyBox1.IsNumerical = true;
+             ****** moneyBox1.ThousandsSeparator = false;
+            /***************************************************/
+
+
+
             string text = moneyBox1.Text;
             decimal value = moneyBox1.Value;
             MessageBox.Show("text: "+ text+ " value: "+value);
