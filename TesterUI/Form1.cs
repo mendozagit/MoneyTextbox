@@ -19,8 +19,9 @@ namespace TesterUI
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            var t = moneyBox1.Text;
-            decimal v = moneyBox1.Value;
+            string text = moneyBox1.Text;
+            decimal value = moneyBox1.Value;
+            MessageBox.Show("text: "+ text+ " value: "+value);
         }
     }
 }

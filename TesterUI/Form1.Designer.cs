@@ -50,11 +50,12 @@
             this.moneyBox1.Name = "moneyBox1";
             this.moneyBox1.Size = new System.Drawing.Size(203, 20);
             this.moneyBox1.TabIndex = 0;
+            this.moneyBox1.Text = "1566.556789";
             this.moneyBox1.Value = new decimal(new int[] {
+            1566556789,
             0,
             0,
-            0,
-            0});
+            393216});
             // 
             // Form1
             // 

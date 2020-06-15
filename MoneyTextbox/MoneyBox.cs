@@ -95,7 +95,7 @@ namespace MoneyTextbox
                 e.Handled = true;
 
 
-            if (e.KeyChar.Equals(".") && Text.Contains("."))
+            if (e.KeyChar == '.' && Text.Contains("."))
                 e.Handled = true;
         }
     }
