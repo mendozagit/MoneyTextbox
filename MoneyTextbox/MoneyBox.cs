@@ -55,6 +55,7 @@ namespace MoneyTextbox
             set { _value = value; }
         }
 
+
         private void GetValor()
         {
             _value = decimal.TryParse(Text, out _value) == false ? decimal.Zero : _value;
